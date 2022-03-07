@@ -1,4 +1,4 @@
-# Food House
+### FOOD CORNER
 
 This is for those people who wants to buy food in reasonable price.It will be able for added the value of button clicking.Then total price calculate is available here.I will be able to display the 5 thing from my fake data.
 
