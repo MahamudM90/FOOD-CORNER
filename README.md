@@ -7,8 +7,12 @@ This is a Food-Corner site where we can filter items dynamically& found the of f
 
 [Live Site](https://foodcornerio.netlify.app/)
 
-##### Footer
+
+##### Navigation
 ![ScreenShot of Form](screenshots/a.png)
+
+
+
 
 ##### Customer Reviews
 ![ScreenShot of Form](screenshots/b.png)
