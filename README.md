@@ -22,8 +22,8 @@ This is a Food-Corner site where we can filter items dynamically& found the of f
 ## Technologies
  
 1. React.js (Front-end)
-2. css3 (Styling)
-3. 
+2. Css3 (Styling)
+3. Material-UI
 
 
 ## Run it Locally
