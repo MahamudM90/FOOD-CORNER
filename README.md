@@ -4,9 +4,20 @@ This is for those people who wants to buy food in reasonable price.It will be ab
 
 [Live Site](https://food-order-misbahmuib.netlify.app/)
 
-![screencapture-food-order-misbahmuib-netlify-app-2022-02-08-15_45_13](https://user-images.githubusercontent.com/45326654/152960982-02ee5392-c0af-459e-bd13-13a0eb5e16ba.png)
+##### Footer
+![ScreenShot of Form](screenshots/a.png)
 
-### Features
+##### Customer Reviews
+![ScreenShot of Form](screenshots/b.png)
+
+##### CartPage
+![ScreenShot of Form](screenshots/c.png)
+
+##### Shipping 
+![ScreenShot of Form](screenshots/d.png)
+
+##### Payment
+![ScreenShot of Form](screenshots/e.png)
 * Here I am using react app.
 * created more components to specify my files clearly.
 * used the useState and useEffect
