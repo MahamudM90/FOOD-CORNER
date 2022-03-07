@@ -15,11 +15,6 @@ This is for those people who wants to buy food in reasonable price.It will be ab
 
 ##### Payment
 ![ScreenShot of Form](screenshots/e.png)
-* Here I am using react app.
-* created more components to specify my files clearly.
-* used the useState and useEffect
-* used the arrow functions,for of loop,map etc.
-
 
 
 ## Run it Locally
