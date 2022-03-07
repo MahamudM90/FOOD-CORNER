@@ -19,6 +19,12 @@ This is a Food-Corner site where we can filter items dynamically& found the of f
 ##### Payment
 ![ScreenShot of Form](screenshots/e.png)
 
+## Technologies
+ 
+1. React.js (Front-end)
+2. css3 (Styling)
+3. 
+
 
 ## Run it Locally
 ```
