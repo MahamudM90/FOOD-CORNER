@@ -22,7 +22,14 @@ This is for those people who wants to buy food in reasonable price.It will be ab
 
 
 
-
+## Run it Locally
+```
+$ git clone https://github.com/MahamudM90/FOODCORNER
+$ cd foodcorner
+$ npm install
+$ npm start
+$ Open http://localhost:3000
+```
 
 
 
