@@ -13,9 +13,6 @@ This is for those people who wants to buy food in reasonable price.It will be ab
 ##### CartPage
 ![ScreenShot of Form](screenshots/c.png)
 
-##### Shipping 
-![ScreenShot of Form](screenshots/d.png)
-
 ##### Payment
 ![ScreenShot of Form](screenshots/e.png)
 * Here I am using react app.
