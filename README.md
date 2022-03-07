@@ -19,10 +19,12 @@ This is a Food-Corner site where we can filter items dynamically& found the of f
 
 
 
-##### CartPage
+##### Order Done 
 ![ScreenShot of Form](screenshots/c.png)
 
-##### Payment
+
+
+##### Order - List 
 ![ScreenShot of Form](screenshots/e.png)
 
 ## Technologies
