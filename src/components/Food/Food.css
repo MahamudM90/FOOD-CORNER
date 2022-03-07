@@ -1,0 +1,30 @@
+.food{
+border: 1px solid burlywood;
+background-color: bisque;
+border: 1px solid lightgrey;
+border-radius: 10px;
+}
+.food :hover{
+    background-color: lightsalmon;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+    padding: 10px;
+    transition: 0.6s;
+}
+
+.food img{
+    width: 200px;
+    height: 150px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.button{
+    background-color: rgb(238, 190, 128);
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.button:hover{
+    background-color: rgb(255, 123, 75);
+    cursor: pointer;
+}

@@ -1,0 +1,122 @@
+const items = [
+    {
+        "key": "A1",
+        "name": "Burger",
+        "cooked": "Tomal",
+        "stock": 15,
+        "rating": 3,
+        "img": "https://assets.bonappetit.com/photos/5d1cb1880813410008e914fc/master/pass/Print-Summer-Smash-Burger.jpg",
+        "price": 20.00,
+        "preserved-hour": 24
+    },
+    {
+        "key": "A2",
+        "name": "Pizza",
+        "cooked": "Parvez",
+        "stock": 12,
+        "rating": 4,
+        "img": "https://media.istockphoto.com/photos/vegetarian-pizza-with-broccoli-cherry-tomato-pepper-and-mushrooms-picture-id1297290376?s=612x612",
+        "price": 50.00,
+        "preserved-hour": 24
+    },
+    {
+        "key": "A3",
+        "name": "Pasta",
+        "cooked": "Mahamud",
+        "stock": 10,
+        "rating": 3,
+        "img": "https://media.istockphoto.com/photos/vegetarian-pizza-with-broccoli-cherry-tomato-pepper-and-mushrooms-picture-id1297290376?s=612x612",
+        "price": 80.00,
+        "preserved-hour": 12
+    },
+    {
+        "key": "A4",
+        "name": "Salad",
+        "cooked": "Anamul",
+        "stock": 5,
+        "rating": 4.5,
+        "img": "https://images.immediate.co.uk/production/volatile/sites/30/2014/05/Epic-summer-salad-hub-2646e6e.jpg?quality=45&resize=960,872",
+        "price": 70.00,
+        "preserved-hour": 12
+    },
+    {
+        "key": "A5",
+        "name": "Rice-Bowl",
+        "cooked": "Reza",
+        "stock": 10,
+        "rating": 5,
+        "img": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/da910fada77b-3.png",
+        "price": 120.00,
+        "preserved-hour": 20
+    },
+    {
+        "key": "A6",
+        "name": "Faluda",
+        "cooked": "Sunvee",
+        "stock": 20,
+        "rating": 5,
+        "img": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/da910fada77b-3.png",
+        "price": 80.00,
+        "preserved-hour": 24
+    },
+    {
+        "key": "A7",
+        "name": "Ice-Cream",
+        "cooked": "Isita",
+        "stock": 50,
+        "rating": 5,
+        "img": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/da910fada77b-3.png",
+        "price": 80.00,
+        "preserved-hour": 72
+    },
+    {
+        "key": "A8",
+        "name": "Chiken-Fry",
+        "cooked": "Anwar",
+        "stock": 100,
+        "rating": 5,
+        "img": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/da910fada77b-3.png",
+        "price": 40.00,
+        "preserved-hour": 12
+    },
+    {
+        "key": "A9",
+        "name": "Singara",
+        "cooked": "Anika",
+        "stock": 100,
+        "rating": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSyyeRAXFRPrEawKoIsUuqIujuAriL9zjV1Q&usqp=CAU",
+        "price": 10.00,
+        "preserved-hour": 5
+    },
+    {
+        "key": "A10",
+        "name": "Samucha",
+        "cooked": "Tonmoy",
+        "stock": 100,
+        "rating": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqNkIdMpS-N7Mu7Pbj-g23SVqLD4zhQ-tUg&usqp=CAU",
+        "price": 10.00,
+        "preserved-hour": 5
+    },
+    {
+        "key": "A11",
+        "name": "pani-puri",
+        "cooked": "Hemel",
+        "stock": 80,
+        "rating": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtnfu1AMrcK0gEnQlB7nbnI93RevkT9dC6Fw&usqp=CAU",
+        "price": 30.00,
+        "preserved-hour": 5
+    },
+    {
+        "key": "A12",
+        "name": "Fuchka",
+        "cooked": "Mahamud",
+        "stock": 90,
+        "rating": 5,
+        "img": "https://www.observerbd.com/2017/10/07/1507393271.jpg",
+        "price": 40.00,
+        "preserved-hour": 5
+    },
+]
