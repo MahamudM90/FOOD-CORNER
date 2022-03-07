@@ -14,8 +14,10 @@ This is a Food-Corner site where we can filter items dynamically& found the of f
 
 
 
-##### Customer Reviews
+##### Customer Shown Food List
 ![ScreenShot of Form](screenshots/b.png)
+
+
 
 ##### CartPage
 ![ScreenShot of Form](screenshots/c.png)
