@@ -1,6 +1,6 @@
 ### FOOD CORNER🥥
 
-This is a Food-Corner site where we can filter items dynamically& found the of food & Cart this food🍔🥥
+This is a Food-Corner site where we can filter items dynamically& found the of Food & Cart this food🍔🥥
 
 
 
